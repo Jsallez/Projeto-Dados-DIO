@@ -54,12 +54,5 @@ employee s ON c.Super_ssn = s.Ssn;
 
 
 
-
-## Autor:
-*Jonas Salles*
-
 ## Ferramentas utilizadas:
 - Banco de dados Azure, MySQL e Power Bi.
-
-## Agradecimentos:
-Agradeço à Digital Innovation One pela oportunidade de aprendizado proporcionada pelo Bootcamp de Ciência de Dados.
